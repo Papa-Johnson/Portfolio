@@ -495,6 +495,7 @@ footer{
 }
 .footer_menu_list{
     list-style: none;
+    width: 100%;
 }
 .footer_menu_list a{
     text-decoration: none;
@@ -624,9 +625,6 @@ footer{
     .footer_menu_list a{
         font-size: 12px;
         margin-inline: 1vw;
-    }
-    .footer_menu_list{
-        width: 100%;
     }
 }
 
